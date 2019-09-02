@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.4.1)
+  - RichEditorView (5.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RichEditorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - RichEditorView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  RichEditorView: 1bbb07b87ca2d479ac29a6877014b38b8df233ef
+
+PODFILE CHECKSUM: f703176d8573714e7726cb4b5731d9350f6c4d46
+
+COCOAPODS: 1.7.2
